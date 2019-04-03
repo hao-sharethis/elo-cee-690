@@ -1,2 +1,3 @@
-data/*
+data/*.csv
+data/*.xlsx
 core/.ipynb_checkpoints
