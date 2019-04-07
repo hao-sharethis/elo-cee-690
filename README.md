@@ -14,3 +14,5 @@ ipython kernel install --user --name=elo-cee
 jupyter notebook
 
 ```
+
+Then on the jupyter kennel web ui, switch the kennel to elo-cee under Kennel tab. run the program.
